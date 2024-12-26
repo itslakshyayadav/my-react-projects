@@ -4,7 +4,7 @@ export default function BaseNavbar() {
       <nav>
         <ul>
           <li className="text-red-600">Home</li>
-          <li>About</li>
+          <li className="text-red-600">About</li>
           <li>Settings</li>
         </ul>
       </nav>
