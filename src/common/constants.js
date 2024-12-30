@@ -7,4 +7,10 @@ export const ICONS = {
   CURD: "curd",
   Calculator: "calculator",
   Weather: "weather",
+  Search: "search",
+  Brush: "brush",
+  Cross: "cross",
+  Delete: "delete",
+  Edit: "edit",
+  Exclamation: "exclamation",
 };
